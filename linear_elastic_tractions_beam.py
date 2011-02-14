@@ -42,7 +42,7 @@ def post_process(out, problem, state, extend=False):
     Returns
     -------
     out : dict
-        The updated output dictionary.
+        The updated output dictionary. 
     """
     from sfepy.base.base import Struct
 
